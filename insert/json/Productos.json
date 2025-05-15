@@ -1,0 +1,109 @@
+{
+    "Productos": [
+        {
+            "Descripción":"Teléfono inteligente con pantalla HD",
+            "Precio Venta Recomendado":"  300,00 € ",
+            "Cantidad en Stock":50,
+            "Proveedor":"TechPhones",
+            "Categoría":"Teléfonos"
+        },
+        {
+            "Descripción":"Ordenador portátil de última generación",
+            "Precio Venta Recomendado":"  800,00 € ",
+            "Cantidad en Stock":20,
+            "Proveedor":"ElectroWorld",
+            "Categoría":"Ordenadores"
+        },
+        {
+            "Descripción":"Tableta con pantalla táctil de 10 pulgadas",
+            "Precio Venta Recomendado":"  200,00 € ",
+            "Cantidad en Stock":30,
+            "Proveedor":"TechPhones",
+            "Categoría":"Ordenadores"
+        },
+        {
+            "Descripción":"Auriculares inalámbricos con cancelación de ruido",
+            "Precio Venta Recomendado":"  150,00 € ",
+            "Cantidad en Stock":40,
+            "Proveedor":"MegaElectronics",
+            "Categoría":"Accesorios"
+        },
+        {
+            "Descripción":"Monitor de alta resolución",
+            "Precio Venta Recomendado":"  400,00 € ",
+            "Cantidad en Stock":15,
+            "Proveedor":"ElectroWorld",
+            "Categoría":"Periféricos"
+        },
+        {
+            "Descripción":"Impresora láser multifunción",
+            "Precio Venta Recomendado":"  250,00 € ",
+            "Cantidad en Stock":25,
+            "Proveedor":"GlobalTech",
+            "Categoría":"Periféricos"
+        },
+        {
+            "Descripción":"Ratón inalámbrico ergonómico",
+            "Precio Venta Recomendado":"  30,00 € ",
+            "Cantidad en Stock":50,
+            "Proveedor":"MegaElectronics",
+            "Categoría":"Periféricos"
+        },
+        {
+            "Descripción":"Teclado mecánico retroiluminado",
+            "Precio Venta Recomendado":"  80,00 € ",
+            "Cantidad en Stock":40,
+            "Proveedor":"GlobalTech",
+            "Categoría":"Periféricos"
+        },
+        {
+            "Descripción":"Cámara web de alta definición",
+            "Precio Venta Recomendado":"  50,00 € ",
+            "Cantidad en Stock":20,
+            "Proveedor":"ElectroWorld",
+            "Categoría":"Ordenadores"
+        },
+        {
+            "Descripción":"Disco duro portátil de 1TB",
+            "Precio Venta Recomendado":"  100,00 € ",
+            "Cantidad en Stock":10,
+            "Proveedor":"TechPhones",
+            "Categoría":"Accesorios"
+        },
+        {
+            "Descripción":"Unidad de estado sólido de 500GB",
+            "Precio Venta Recomendado":"  120,00 € ",
+            "Cantidad en Stock":30,
+            "Proveedor":"MegaElectronics",
+            "Categoría":"Componentes"
+        },
+        {
+            "Descripción":"Tarjeta gráfica de gama alta",
+            "Precio Venta Recomendado":"  600,00 € ",
+            "Cantidad en Stock":5,
+            "Proveedor":"CompuMax",
+            "Categoría":"Componentes"
+        },
+        {
+            "Descripción":"Altavoces Bluetooth con subwoofer",
+            "Precio Venta Recomendado":"  150,00 € ",
+            "Cantidad en Stock":20,
+            "Proveedor":"GlobalTech",
+            "Categoría":"Accesorios"
+        },
+        {
+            "Descripción":"Micrófono de condensador para estudio",
+            "Precio Venta Recomendado":"  80,00 € ",
+            "Cantidad en Stock":15,
+            "Proveedor":"CompuMax",
+            "Categoría":"Accesorios"
+        },
+        {
+            "Descripción":"Procesador de última generación",
+            "Precio Venta Recomendado":"  400,00 € ",
+            "Cantidad en Stock":10,
+            "Proveedor":"TechPhones",
+            "Categoría":"Componentes"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+	"Proveedores" : [
+		{
+			"Codigo" : 1,
+			"Nombre" : "TechPhones",
+			"Direccion" : "Av. Tecnología, 123",
+			"Telefono" : 123456789,
+			"Correo" : "info@techphones.com",
+			"Codigo_Postal" : 28001,
+			"Nombre_Contacto" : "Ana"
+		},
+		{
+			"Codigo" : 2,
+			"Nombre" : "ElectroWorld",
+			"Direccion" : "C/ Innovación, 56",
+			"Telefono" : 987654321,
+			"Correo" : "info@electroworld.com",
+			"Codigo_Postal" : 8001,
+			"Nombre_Contacto" : "Luisa"
+		},
+		{
+			"Codigo" : 3,
+			"Nombre" : "MegaElectronics",
+			"Direccion" : "Paseo de la Innovación, 7",
+			"Telefono" : 456789123,
+			"Correo" : "info@megaelectro.com",
+			"Codigo_Postal" : 46002,
+			"Nombre_Contacto" : "Pedro"
+		},
+		{
+			"Codigo" : 4,
+			"Nombre" : "GlobalTech",
+			"Direccion" : "Plaza Mayor, 10",
+			"Telefono" : 789123456,
+			"Correo" : "info@globaltech.com",
+			"Codigo_Postal" : 41001,
+			"Nombre_Contacto" : "Marta"
+		},
+		{
+			"Codigo" : 5,
+			"Nombre" : "CompuMax",
+			"Direccion" : "C/ Real, 45",
+			"Telefono" : 321654987,
+			"Correo" : "info@compumax.com",
+			"Codigo_Postal" : 28010,
+			"Nombre_Contacto" : "Juan"
+		},
+		{
+			"Codigo" : 6,
+			"Nombre" : "ElectronicaSL",
+			"Direccion" : "Av. Diagonal, 78",
+			"Telefono" : 654987321,
+			"Correo" : "info@electronica.com",
+			"Codigo_Postal" : 8020,
+			"Nombre_Contacto" : "Carlos"
+		}
+	]
+}

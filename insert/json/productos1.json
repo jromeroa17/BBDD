@@ -1,0 +1,124 @@
+{
+	"Productos": [
+	  {
+		"Codigo": 1,
+		"Nombre": "Teléfono inteligente con pantalla HD",
+		"Precio": 300,
+		"Stock": 50,
+		"Codigo_Proveedor": 1,
+		"Codigo_Categoria": 3
+	  },
+	  {
+		"Codigo": 2,
+		"Nombre": "Ordenador portátil de última generación",
+		"Precio": 800,
+		"Stock": 20,
+		"Codigo_Proveedor": 2,
+		"Codigo_Categoria": 1
+	  },
+	  {
+		"Codigo": 3,
+		"Nombre": "Tableta con pantalla táctil de 10 pulgadas",
+		"Precio": 200,
+		"Stock": 30,
+		"Codigo_Proveedor": 1,
+		"Codigo_Categoria": 1
+	  },
+	  {
+		"Codigo": 4,
+		"Nombre": "Auriculares inalámbricos con cancelación de ruido",
+		"Precio": 150,
+		"Stock": 40,
+		"Codigo_Proveedor": 3,
+		"Codigo_Categoria": 5
+	  },
+	  {
+		"Codigo": 5,
+		"Nombre": "Monitor de alta resolución",
+		"Precio": 400,
+		"Stock": 15,
+		"Codigo_Proveedor": 2,
+		"Codigo_Categoria": 2
+	  },
+	  {
+		"Codigo": 6,
+		"Nombre": "Impresora láser multifunción",
+		"Precio": 250,
+		"Stock": 25,
+		"Codigo_Proveedor": 4,
+		"Codigo_Categoria": 2
+	  },
+	  {
+		"Codigo": 7,
+		"Nombre": "Ratón inalámbrico ergonómico",
+		"Precio": 30,
+		"Stock": 50,
+		"Codigo_Proveedor": 3,
+		"Codigo_Categoria": 2
+	  },
+	  {
+		"Codigo": 8,
+		"Nombre": "Teclado mecánico retroiluminado",
+		"Precio": 80,
+		"Stock": 40,
+		"Codigo_Proveedor": 4,
+		"Codigo_Categoria": 2
+	  },
+	  {
+		"Codigo": 9,
+		"Nombre": "Cámara web de alta definición",
+		"Precio": 50,
+		"Stock": 20,
+		"Codigo_Proveedor": 2,
+		"Codigo_Categoria": 1
+	  },
+	  {
+		"Codigo": 10,
+		"Nombre": "Disco duro portátil de 1TB",
+		"Precio": 100,
+		"Stock": 10,
+		"Codigo_Proveedor": 1,
+		"Codigo_Categoria": 5
+	  },
+	  {
+		"Codigo": 11,
+		"Nombre": "Unidad de estado sólido de 500GB",
+		"Precio": 120,
+		"Stock": 30,
+		"Codigo_Proveedor": 3,
+		"Codigo_Categoria": 4
+	  },
+	  {
+		"Codigo": 12,
+		"Nombre": "Tarjeta gráfica de gama alta",
+		"Precio": 600,
+		"Stock": 5,
+		"Codigo_Proveedor": 5,
+		"Codigo_Categoria": 4
+	  },
+	  {
+		"Codigo": 13,
+		"Nombre": "Altavoces Bluetooth con subwoofer",
+		"Precio": 150,
+		"Stock": 20,
+		"Codigo_Proveedor": 4,
+		"Codigo_Categoria": 5
+	  },
+	  {
+		"Codigo": 14,
+		"Nombre": "Micrófono de condensador para estudio",
+		"Precio": 80,
+		"Stock": 15,
+		"Codigo_Proveedor": 5,
+		"Codigo_Categoria": 5
+	  },
+	  {
+		"Codigo": 15,
+		"Nombre": "Procesador de última generación",
+		"Precio": 400,
+		"Stock": 10,
+		"Codigo_Proveedor": 1,
+		"Codigo_Categoria": 4
+	  }
+	]
+}

@@ -1,0 +1,29 @@
+{
+    "Categorias": [
+        {
+            "Codigo":1,
+            "Nombre":"Ordenadores",
+            "Precio_Medio":null
+        },
+        {
+            "Codigo":2,
+            "Nombre":"Periféricos",
+            "Precio_Medio":null
+        },
+        {
+            "Codigo":3,
+            "Nombre":"Teléfonos",
+            "Precio_Medio":null
+        },
+        {
+            "Codigo":4,
+            "Nombre":"Componentes",
+            "Precio_Medio":null
+        },
+        {
+            "Codigo":5,
+            "Nombre":"Accesorios",
+            "Precio_Medio":null
+        }
+    ]
+}

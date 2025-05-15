@@ -1,0 +1,57 @@
+
+[
+    {
+        "Nombre":"TechPhones",
+        "Contacto":"Ana",
+        "Teléfono":123456789,
+        "Correo Electrónico":"info@techphones.com",
+        "Dirección":"Av. Tecnología, 123",
+        "Ciudad":"Madrid",
+        "Código Postal":28001
+    },
+    {
+        "Nombre":"ElectroWorld",
+        "Contacto":"Luisa",
+        "Teléfono":987654321,
+        "Correo Electrónico":"info@electroworld.com",
+        "Dirección":"C\/ Innovación, 56",
+        "Ciudad":"Barcelona",
+        "Código Postal":8001
+    },
+    {
+        "Nombre":"MegaElectronics",
+        "Contacto":"Pedro",
+        "Teléfono":456789123,
+        "Correo Electrónico":"info@megaelectro.com",
+        "Dirección":"Paseo de la Innovación, 7",
+        "Ciudad":"Valencia",
+        "Código Postal":46002
+    },
+    {
+        "Nombre":"GlobalTech",
+        "Contacto":"Marta",
+        "Teléfono":789123456,
+        "Correo Electrónico":"info@globaltech.com",
+        "Dirección":"Plaza Mayor, 10",
+        "Ciudad":"Sevilla",
+        "Código Postal":41001
+    },
+    {
+        "Nombre":"CompuMax",
+        "Contacto":"Juan",
+        "Teléfono":321654987,
+        "Correo Electrónico":"info@compumax.com",
+        "Dirección":"C\/ Real, 45",
+        "Ciudad":"Madrid",
+        "Código Postal":28010
+    },
+    {
+        "Nombre":"ElectronicaSL",
+        "Contacto":"Carlos",
+        "Teléfono":654987321,
+        "Correo Electrónico":"info@electronica.com",
+        "Dirección":"Av. Diagonal, 78",
+        "Ciudad":"Barcelona",
+        "Código Postal":8020
+    }
+]

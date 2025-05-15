@@ -1,0 +1,112 @@
+[
+    {
+        "DNI":"60476686A",
+        "Nombre":"Juan",
+        "Apellido":"Pérez",
+        "Dirección":"Calle Mayor, 123",
+        "Ciudad":"Madrid",
+        "Código Postal":28001,
+        "Teléfono":123456789,
+        "Correo Electrónico":"juan@example.com",
+        "Fecha de Registro":"15\/1\/2024"
+    },
+    {
+        "DNI":"91535270P",
+        "Nombre":"María",
+        "Apellido":"García",
+        "Dirección":"Av. Libertad, 56",
+        "Ciudad":"Barcelona",
+        "Código Postal":8001,
+        "Teléfono":987654321,
+        "Correo Electrónico":"maria@example.com",
+        "Fecha de Registro":"20\/2\/2024"
+    },
+    {
+        "DNI":"90051133S",
+        "Nombre":"David",
+        "Apellido":"López",
+        "Dirección":"C\/ Gran Vía, 89",
+        "Ciudad":"Valencia",
+        "Código Postal":46001,
+        "Teléfono":654321987,
+        "Correo Electrónico":"david@example.com",
+        "Fecha de Registro":"10\/3\/2024"
+    },
+    {
+        "DNI":"74046088A",
+        "Nombre":"Ana",
+        "Apellido":"Martínez",
+        "Dirección":"Paseo de la Castellana, 7",
+        "Ciudad":"Madrid",
+        "Código Postal":28046,
+        "Teléfono":147258369,
+        "Correo Electrónico":"ana@example.com",
+        "Fecha de Registro":"5\/4\/2024"
+    },
+    {
+        "DNI":"24566890S",
+        "Nombre":"Pedro",
+        "Apellido":"Fernández",
+        "Dirección":"Plaza Mayor, 1",
+        "Ciudad":"Sevilla",
+        "Código Postal":41001,
+        "Teléfono":369852147,
+        "Correo Electrónico":"pedro@example.com",
+        "Fecha de Registro":"12\/5\/2023"
+    },
+    {
+        "DNI":"05144386E",
+        "Nombre":"Laura",
+        "Apellido":"Rodríguez",
+        "Dirección":"Av. Diagonal, 123",
+        "Ciudad":"Barcelona",
+        "Código Postal":8020,
+        "Teléfono":258369147,
+        "Correo Electrónico":"laura@example.com",
+        "Fecha de Registro":"18\/6\/2023"
+    },
+    {
+        "DNI":"51222477M",
+        "Nombre":"José",
+        "Apellido":"Sánchez",
+        "Dirección":"C\/ Mayor, 56",
+        "Ciudad":"Valencia",
+        "Código Postal":46002,
+        "Teléfono":987654321,
+        "Correo Electrónico":"jose@example.com",
+        "Fecha de Registro":"23\/7\/2023"
+    },
+    {
+        "DNI":"62528678G",
+        "Nombre":"Marta",
+        "Apellido":"Gómez",
+        "Dirección":"C\/ Real, 23",
+        "Ciudad":"Madrid",
+        "Código Postal":28010,
+        "Teléfono":369147258,
+        "Correo Electrónico":"marta@example.com",
+        "Fecha de Registro":"30\/8\/2023"
+    },
+    {
+        "DNI":"56583084W",
+        "Nombre":"Carlos",
+        "Apellido":"Ruiz",
+        "Dirección":"Av. de la Constitución, 8",
+        "Ciudad":"Sevilla",
+        "Código Postal":41002,
+        "Teléfono":654987321,
+        "Correo Electrónico":"carlos@example.com",
+        "Fecha de Registro":"17\/9\/2023"
+    },
+    {
+        "DNI":"61695916A",
+        "Nombre":"Cristina",
+        "Apellido":"López",
+        "Dirección":"Paseo del Prado, 45",
+        "Ciudad":"Madrid",
+        "Código Postal":28014,
+        "Teléfono":741852963,
+        "Correo Electrónico":"cristina@example.com",
+        "Fecha de Registro":"25\/10\/2023"
+    }
+]
