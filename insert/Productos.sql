@@ -1,0 +1,15 @@
+insert into PRODUCTOS values (1,"Teléfono inteligente con pantalla HD",300.0,50,1,3);
+insert into PRODUCTOS values (2,"Ordenador portátil de última generación",800.0,20,2,1);
+insert into PRODUCTOS values (3,"Tableta con pantalla táctil de 10 pulgadas",200.0,30,1,1);
+insert into PRODUCTOS values (4,"Auriculares inalámbricos con cancelación de ruido",150.0,40,3,5);
+insert into PRODUCTOS values (5,"Monitor de alta resolución",400.0,15,2,2);
+insert into PRODUCTOS values (6,"Impresora láser multifunción",250.0,25,4,2);
+insert into PRODUCTOS values (7,"Ratón inalámbrico ergonómico",30.0,50,3,2);
+insert into PRODUCTOS values (8,"Teclado mecánico retroiluminado",80.0,40,4,2);
+insert into PRODUCTOS values (9,"Cámara web de alta definición",50.0,20,2,1);
+insert into PRODUCTOS values (10,"Disco duro portátil de 1TB",100.0,10,1,5);
+insert into PRODUCTOS values (11,"Unidad de estado sólido de 500GB",120.0,30,3,4);
+insert into PRODUCTOS values (12,"Tarjeta gráfica de gama alta",600.0,5,5,4);
+insert into PRODUCTOS values (13,"Altavoces Bluetooth con subwoofer",150.0,20,4,5);
+insert into PRODUCTOS values (14,"Micrófono de condensador para estudio",80.0,15,5,5);
+insert into PRODUCTOS values (15,"Procesador de última generación",400.0,10,1,4);
