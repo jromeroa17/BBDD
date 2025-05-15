@@ -1,0 +1,1 @@
+Aquí están los archivos .json, todos vienen de exportar en excel con los datos a csv y de ahí convertirlo a json menos los que tienen un 1 al final del nombre, que están exportados de mysql directamente
