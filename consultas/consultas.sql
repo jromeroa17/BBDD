@@ -30,13 +30,26 @@ having total_prod_diferentes > 3;
 
 
 -- 6. Muestra el producto más vendido y el menos vendido junto con la cantidad vendida.
--- select nombre from productos inner join detallepedido 
--- on productos.codigo_producto=detallepedido.codigo_producto
--- where
-(select productos.nombre, count(*) 
-from DETALLEPEDIDO inner join PRODUCTOS
-on detallepedido.codigo_producto=productos.Codigo
-group by Codigo_Producto) as total_productos
+select nombre, total
+from (select productos.nombre as nombre, sum(detallepedido.cantidad) as total
+from DETALLEPEDIDO
+inner join PRODUCTOS on detallepedido.codigo_producto = productos.Codigo
+group by productos.Codigo, productos.nombre) as total_productos
+where total = (select max(total_cant) from (select sum(cantidad) as total_cant
+from DETALLEPEDIDO
+group by codigo_producto) as submax)
+union
+select nombre, total
+from (select productos.nombre as nombre, sum(detallepedido.cantidad) as total
+from DETALLEPEDIDO
+inner join PRODUCTOS on detallepedido.codigo_producto = productos.Codigo
+group by productos.Codigo, productos.nombre) as total_productos
+where total = (select min(total_cant) from (
+select sum(cantidad) as total_cant
+from DETALLEPEDIDO group by codigo_producto) as submin);
 
 
 -- 7. Calcular el total de ventas realizadas hasta la fecha.
+-- Pedidos entregados? Productos vendidos en total?
+select sum(Total) as Total_Ventas from PEDIDOS where Estado = 'Entregado';
+
